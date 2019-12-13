@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "987910146832",
+    "firebase_url": "https://trianning.firebaseio.com",
+    "project_id": "trianning",
+    "storage_bucket": "trianning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987910146832:android:1d46f7ff667d8af4017395",
+        "android_client_info": {
+          "package_name": "com.it.trianning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987910146832-46h7oob3ki1kmhaakibmrokrr53cvafg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.it.trianning",
+            "certificate_hash": "2746bea07f90fdaf2c95e9164f8eda489b9c1f7e"
+          }
+        },
+        {
+          "client_id": "987910146832-tbmduv99ela2euboqbsbgtnvfgs2s8ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeohPmsAnhUmTrK1Gp1hJAckHLGLvxiwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987910146832-tbmduv99ela2euboqbsbgtnvfgs2s8ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
